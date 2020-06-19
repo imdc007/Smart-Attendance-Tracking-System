@@ -17,6 +17,7 @@ After taking image sample we have to click Trained button. Now it take few secon
 
 Now all initial setups are done. By clicking Mark Attendance button camera of running machine is opened again. If face is recognised by system then Id and Name of person is shown on Image. Press Q(or q) for quit this window. After quitting it attendance of person will be stored in Attendance folder as csv file with name, id, date and time and it is also available in window. At the end it notify that attendance updated.
 
- 
+Published at https://www.goeduhub.com/10503/smart-attendance-tracking-system-using-face-recognition?show=10503#q10503
+
 Developer:
 Dushyant Chauhan
