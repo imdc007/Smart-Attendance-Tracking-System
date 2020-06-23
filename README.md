@@ -1,6 +1,6 @@
 # Smart Attendance Tracking System
 
-This project is developed under guidance Goeduhub Technologies during online Summer training in Artificial Intelligence, Machine Learning and Deep learning.
+This project is developed under guidance of Goeduhub Technologies during online Summer training in Artificial Intelligence, Machine Learning and Deep learning.
 
 This repository contains code for facial recognition using openCV and python with a tkinter gui interface. If you want to test the code then run train.ipynb file.
 
