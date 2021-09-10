@@ -1,6 +1,6 @@
 # Smart Attendance Tracking System
 
-![window7](https://user-images.githubusercontent.com/65812759/132798799-44211eb7-0ec9-48ea-b114-a302eb28254b.JPG)
+                             ![window7](https://user-images.githubusercontent.com/65812759/132798799-44211eb7-0ec9-48ea-b114-a302eb28254b.JPG)
 
 This project is developed under guidance of Goeduhub Technologies during online Summer training in Artificial Intelligence, Machine Learning and Deep learning.
 
